@@ -1,0 +1,6 @@
+name: CommandAPI
+version: '1.0'
+main: lol.vifez.command.example.MainPlugin
+authors: [vifez]
+description: a cool custom command api base for begginers
+website: https://discord.gg/stkWZEKVd5
